@@ -1,3 +1,6 @@
+## Project
+.env
+
 ## Golang
 # Binaries for programs and plugins
 *.exe
@@ -54,7 +57,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
